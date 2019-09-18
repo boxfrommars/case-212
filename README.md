@@ -116,5 +116,5 @@
 | Петрухин Павел                     | Backend developer, Москва               |
 | Никита Капитонов                   | Product Owner, Teplomonitor, Москва     |
 | Сергей Николаев                    | Fullstack Developer                     |
-| Дмитрий Гроза                      | Data Analyst .                          |
+| Дмитрий Гроза                      | Data Analyst                            |
 | Романченко Андрей                  | Программист 1С, Москва                  |
